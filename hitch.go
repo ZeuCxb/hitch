@@ -3,7 +3,7 @@ package hitch
 import (
 	"net/http"
 
-	"github.com/julienschmidt/httprouter"
+	"github.com/ZeuCxb/httprouter"
 	"github.com/nbio/httpcontext"
 )
 
